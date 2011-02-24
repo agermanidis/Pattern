@@ -2,13 +2,13 @@ An unofficial mirror of the [Pattern](http://www.clips.ua.ac.be/pages/pattern) w
 
 ##License##
 
-<p><code>Copyright (c) 2010 University of Antwerp, Belgium
-All rights reserved.<p>
+<p>Copyright (c) 2010 University of Antwerp, Belgium
+All rights reserved.</p>
 
 <p>Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:</p>
 
-  * Redistributions of source code must retain the above copyright
+<p>  * Redistributions of source code must retain the above copyright
     notice, this list of conditions and the following disclaimer.
   * Redistributions in binary form must reproduce the above copyright 
     notice, this list of conditions and the following disclaimer in
