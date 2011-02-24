@@ -3,10 +3,10 @@ An unofficial mirror of the [Pattern](http://www.clips.ua.ac.be/pages/pattern) w
 ##License##
 
 <p><code>Copyright (c) 2010 University of Antwerp, Belgium
-All rights reserved.
+All rights reserved.<p>
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+<p>Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:</p>
 
   * Redistributions of source code must retain the above copyright
     notice, this list of conditions and the following disclaimer.
@@ -19,7 +19,7 @@ modification, are permitted provided that the following conditions are met:
     derived from this software without specific prior written
     permission.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+<p>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
 "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
 LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
 FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
