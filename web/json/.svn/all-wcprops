@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/452/libraries/web/simplejson
+END
+scanner.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/450/libraries/web/simplejson/scanner.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/450/libraries/web/simplejson/__init__.py
+END
+encoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/450/libraries/web/simplejson/encoder.py
+END
+_speedups.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/450/libraries/web/simplejson/_speedups.c
+END
+decoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/450/libraries/web/simplejson/decoder.py
+END

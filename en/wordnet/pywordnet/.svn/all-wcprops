@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/169/libraries/wordnet/pywordnet
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/111/libraries/wordnet/pywordnet/LICENSE.txt
+END
+concordance.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111/libraries/wordnet/pywordnet/concordance.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/111/libraries/wordnet/pywordnet/__init__.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/111/libraries/wordnet/pywordnet/setup.py
+END
+wordnet.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/111/libraries/wordnet/pywordnet/wordnet.py
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/111/libraries/wordnet/pywordnet/PKG-INFO
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/111/libraries/wordnet/pywordnet/README.txt
+END
+wntools.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/111/libraries/wordnet/pywordnet/wntools.py
+END
