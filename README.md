@@ -2,7 +2,7 @@ An unofficial mirror of the [Pattern](http://www.clips.ua.ac.be/pages/pattern) w
 
 ##License##
 
-<code><p>Copyright (c) 2010 University of Antwerp, Belgium
+<p><code>Copyright (c) 2010 University of Antwerp, Belgium
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
